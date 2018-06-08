@@ -3,7 +3,7 @@ Watchlist er smáforrit fyrir Android snjalltæki sem hægt er að nota til að 
 [Watchlist ( android )](https://github.com/mej3hi/Watchlist-app).
 
 # Watchlist ( reactjs )
-Watchlist er vefsíða sem hægt er að sjá helstu upplýsingar um bíómyndir og sjónvarpsþætti sem hafa verið gefnir út. Upplýsingarnar eru sóttar úr gagnagrunni The Movie Database (TMDb). 
+Watchlist er vefsíða sem hægt er að sjá helstu upplýsingar um bíómyndir og sjónvarpsþætti sem hafa verið gefnir út. Upplýsingarnar eru sóttar úr gagnagrunni The Movie Database (TMDb).  
 [Watchlist ( reactjs )](https://github.com/mej3hi/watchlist-reactjs).
 
 # Bomb Jack
@@ -14,8 +14,8 @@ Watchlist er vefsíða sem hægt er að sjá helstu upplýsingar um bíómyndir 
 Iceland Events er vefsíða sem hægt er að nota til að skoða upplýsingar um tónleikar sem verið að halda og einnig er hægt að setja inn tónleikar með því að búa sig til aðgang að vefsíðunni.  
 [Iceland Events](https://github.com/mej3hi/tonlist).
 
-## Iceland Events ( android )
-Iceland Events er smáforrit fyrir Android snjalltæki sem hægt er að nota til að skoða upplýsingar um tónleikar sem verið að halda og einnig er hægt að setja inn tónleikar með því að búa sig til aðgang þar.
+# Iceland Events ( android )
+Iceland Events er smáforrit fyrir Android snjalltæki sem hægt er að nota til að skoða upplýsingar um tónleikar sem verið að halda og einnig er hægt að setja inn tónleikar með því að búa sig til aðgang þar.  
 [Iceland Events ( android )](https://github.com/mej3hi/IcelandEventsApp).
 
 
