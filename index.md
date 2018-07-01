@@ -4,17 +4,17 @@ Watchlist er smáforrit fyrir Android snjalltæki sem hægt er að nota til að 
 ![Image](https://raw.githubusercontent.com/mej3hi/screenshot/master/small/mynd2S.PNG)  
 
 
-## Watchlist (Reactjs )
+## Watchlist ( Reactjs )
 Watchlist er vefsíða sem hægt er að sjá helstu upplýsingar um bíómyndir og sjónvarpsþætti sem hafa verið gefnir út. Upplýsingarnar eru sóttar úr gagnagrunni The Movie Database (TMDb).  
 [Watchlist ( reactjs )](https://github.com/mej3hi/watchlist-reactjs).  
 ![Image](https://raw.githubusercontent.com/mej3hi/screenshot/master/small/myndW1S.PNG) 
 
-## Bomb Jack
+## Bomb Jack ( JavaScript )
 Þetta er eftirlíking af hinn klassíkur Bomb Jack tölvuleikinn sem kom út árið 1984, en núna er hægt að spila hann í vafrann í staðinn.  
 [Bomb Jack](https://github.com/mej3hi/bombjack).  
 ![Image](https://raw.githubusercontent.com/mej3hi/screenshot/master/small/myndBJ3S.PNG) 
 
-## Iceland Events
+## Iceland Events ( Java spring )
 Iceland Events er vefsíða sem hægt er að nota til að skoða upplýsingar um tónleikar sem verið að halda og einnig er hægt að setja inn tónleikar með því að búa sig til aðgang að vefsíðunni.  
 [Iceland Events](https://github.com/mej3hi/tonlist).  
 ![Image](https://raw.githubusercontent.com/mej3hi/screenshot/master/small/myndIE1S.PNG) 
