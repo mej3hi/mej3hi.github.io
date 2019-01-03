@@ -1,8 +1,12 @@
 ## Watchlist ( Android )
 Watchlist er smáforrit fyrir Android snjalltæki sem hægt er að nota til að skoða nákvæmar upplýsingar um flestar bíómyndir og sjónvarpsþætti sem hafa verið gefnir út. Upplýsingarnar eru sóttar úr gagnagrunni The Movie Database (TMDb) og notandinn getur valið það efni sem hann vill og bætt því á áhorfslistann sinn. Watchlist gerir fólki kleift að sjá helstu upplýsingar um bíómyndir og sjónvarpsþætti svo það geti sett saman sinn eigin áhorfslista.   
 [Watchlist ( android )](https://github.com/mej3hi/Watchlist-app).  
-![Image](https://raw.githubusercontent.com/mej3hi/screenshot/master/small/mynd2S.PNG)  
+![Image](https://raw.githubusercontent.com/mej3hi/screenshot/master/small/mynd2S.PNG)
 
+## Watchlist ( React-native )
+Watchlist er smáforrit fyrir Android og iPhone snjalltæki sem hægt er að sjá helstu upplýsingar um bíómyndir og sjónvarpsþætti sem hafa verið gefnir út. Upplýsingarnar eru sóttar úr gagnagrunni The Movie Database (TMDb).  
+[Watchlist ( react-native )](https://github.com/mej3hi/watchlist-react-native).  
+![Image](https://raw.githubusercontent.com/mej3hi/screenshot/master/small/myndWRN1S.png) 
 
 ## Watchlist ( Reactjs )
 Watchlist er vefsíða sem hægt er að sjá helstu upplýsingar um bíómyndir og sjónvarpsþætti sem hafa verið gefnir út. Upplýsingarnar eru sóttar úr gagnagrunni The Movie Database (TMDb).  
