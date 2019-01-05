@@ -28,6 +28,11 @@ Iceland Events er smáforrit fyrir Android snjalltæki sem hægt er að nota til
 [Iceland Events ( android )](https://github.com/mej3hi/IcelandEventsApp).  
 ![Image](https://raw.githubusercontent.com/mej3hi/screenshot/master/small/myndIEA1S.PNG) 
 
+## Iceland Events ( Django )
+Iceland Events er vefsíða sem hægt er að nota til að skoða upplýsingar um tónleikar sem verið að halda og einnugs er hægt að setja inn tónleikar með því að búa sig til aðgang að síðuna.    
+[Iceland Events ( Ruby on rails )](https://github.com/mej3hi/IcelandEventsDjango).  
+![Alt tag](https://raw.githubusercontent.com/mej3hi/screenshot/master/small/myndIER1S.png)
+
 ## Iceland Events ( Ruby on rails )
 Iceland Events er vefsíða sem hægt er að nota til að skoða upplýsingar um tónleikar sem verið að halda og einnugs er hægt að setja inn tónleikar með því að búa sig til aðgang að síðuna.    
 [Iceland Events ( Ruby on rails )](https://github.com/mej3hi/IcelandEventsRails).  
